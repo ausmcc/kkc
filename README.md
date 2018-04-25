@@ -1,5 +1,5 @@
 # Koalakash Coin
-**[https://koalakash.space]()**
+**[https://kkc.space]()**
 
 Koalakash Coin is an open source virtual unit of account, processed via publicly accessible, Mine-able, Blockchain system for instantaneuous processing of peer-to-peer cashless payment transactions.
 
@@ -18,9 +18,9 @@ Koalakash Coin is an open source virtual unit of account, processed via publicly
 | Specification | Value             |
 | ------------- |:------------------|
 | Bitcointalk   | [https://bitcointalk.org/index.php?topic=](https://bitcointalk.org/index.php?topic=)       |
-| Discord       | [https://discord.gg/9PCxww](https://discord.gg/9PCxww) |
-| Website       | [https://koalakash.space](https://koalakash.space) |
-| Explorer      | [https://explorer.koalakash.space](http://explorer.koalakash.space)
+| Discord       | [https://discord.gg/](https://discord.gg/) |
+| Website       | [https://kkc.space](https://kkc.space) |
+| Explorer      | [https://explorer.kkc.space](http://explorer.kkc.space)
 
 ## Guides
 You can find various guides in our dedicated **[resources repository](https://github.com/koalakashcoin/pos-resources)**.
