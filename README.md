@@ -18,7 +18,7 @@ Koalakash Coin is an open source virtual unit of account, processed via publicly
 | Specification | Value             |
 | ------------- |:------------------|
 | Bitcointalk   | [https://bitcointalk.org/index.php?topic=](https://bitcointalk.org/index.php?topic=)       |
-| Discord       | [https://discord.gg/](https://discord.gg/) |
+| Discord       | [https://discord.gg/rNhrbnX](https://discord.gg/) |
 | Website       | [https://kkc.space](https://kkc.space) |
 | Explorer      | [https://explorer.kkc.space](http://explorer.kkc.space)
 
